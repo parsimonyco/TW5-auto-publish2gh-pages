@@ -1,4 +1,3 @@
-[Parsimony](http://parsimony.co)
+Travis generated version of https://github.com/parsimonyco/parsimonyco.github.io
 
-You can't sell not.
 

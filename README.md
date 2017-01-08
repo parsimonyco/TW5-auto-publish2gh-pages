@@ -1,3 +1,3 @@
-[Parsimony](http://parsimony.co){:target="_blank"}
+[Parsimony](http://parsimony.co)
 
 You can't sell not.
